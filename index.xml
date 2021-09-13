@@ -6,7 +6,16 @@
     <description>Recent content in Homepage on OpenBSD from A to Z</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Aug 2021 16:27:10 +0200</lastBuildDate><atom:link href="http://openbsd.az/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Sep 2021 11:45:28 +0200</lastBuildDate><atom:link href="http://openbsd.az/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Post</title>
+      <link>http://openbsd.az/post/new-post/</link>
+      <pubDate>Mon, 13 Sep 2021 11:45:28 +0200</pubDate>
+      
+      <guid>http://openbsd.az/post/new-post/</guid>
+      <description>new content</description>
+    </item>
+    
     <item>
       <title>First Post</title>
       <link>http://openbsd.az/post/first-post/</link>
